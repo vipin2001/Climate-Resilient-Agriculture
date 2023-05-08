@@ -1,6 +1,11 @@
 # Climate-Resilient-Agriculture
 Assignment for the Project on Climate Resilient Agriculture
 
+
+## Links
+
+[Report in Google Docs](https://docs.google.com/document/d/1T4DTIi3QMJ5pMc_Z4trxgu615qXwWxIiUQAP3m5w26I/edit?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1CykIO-5i17youm2cSxU59Twcn2UiMhIk/view?usp=sharing)
 ## Running the Python Noteboook
 
 For running the python notebook on <br>
